@@ -1,8 +1,3 @@
-/*
-  Muhammad Syahrul Akbar
-  1/8/2023  
-*/
-
 #include <Arduino.h>
 #include "A4988.h"
 #include "Ubidots.h"
